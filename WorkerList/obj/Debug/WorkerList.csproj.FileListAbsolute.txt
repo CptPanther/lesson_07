@@ -1,0 +1,8 @@
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\bin\Debug\WorkerList.exe.config
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\bin\Debug\WorkerList.exe
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\bin\Debug\WorkerList.pdb
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\obj\Debug\WorkerList.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\obj\Debug\WorkerList.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\obj\Debug\WorkerList.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\obj\Debug\WorkerList.exe
+C:\Users\aser\Desktop\SkillBox VR\C#\Lesson_07.1\WorkerList\obj\Debug\WorkerList.pdb
